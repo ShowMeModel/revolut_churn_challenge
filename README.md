@@ -61,3 +61,17 @@ happened
     * **direction**: string indicating the direction of the transaction
     * **user_id**: string uniquely identifying the user
     * **created_date**: datetime corresponding to the transaction’s created date
+
+## Solution
+
+### Description
+
+### Overview
+
+See a [slideshare presentation](https://www.slideshare.net/secret/f3PsT6ZJTEzTAT) for some additional comments and findings. 
+
+### Requirements
+
+Tested on Python `3.7+` and Macbook Pro (OS version `10.15.4`)
+
+### Files
