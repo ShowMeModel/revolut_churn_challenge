@@ -75,3 +75,21 @@ See a [slideshare presentation](https://www.slideshare.net/secret/f3PsT6ZJTEzTAT
 Tested on Python `3.7+` and Macbook Pro (OS version `10.15.4`)
 
 ### Files
+
+## Findings
+
+### Transaction types
+
+![stats 4 transaction types](https://i.imgur.com/XKyUfNj.png)
+
+## Metrics
+
+### RFV
+
+### Responsiveness
+
+## Model (classifier)
+
+### Linear model
+
+### RF and GBC
