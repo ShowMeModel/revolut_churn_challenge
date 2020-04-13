@@ -93,3 +93,5 @@ Tested on Python `3.7+` and Macbook Pro (OS version `10.15.4`)
 ### Linear model
 
 ### RF and GBC
+
+![shap values for final model](https://i.imgur.com/bg5vuba.png)
