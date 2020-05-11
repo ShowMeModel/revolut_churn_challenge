@@ -86,7 +86,24 @@ Tested on Python `3.7+` and Macbook Pro (OS version `10.15.4`)
 
 ### RFV
 
+Customer loyalty can be measured by a metric called "RFV". 
+
+Inspired by The Financial Times journal:
+
+https://www.intotheminds.com/blog/en/the-financial-times-found-the-most-perfect-kpis-to-measure-success/
+
+>    Recency – when did they last make a transaction?
+>
+>    Frequency – how often do they make transactions?
+>
+>    Volume – how many transactions have they made?
+>
+>    Responsivity - how long it takes to make a transaction since last notification?
+
+
 ### Responsiveness
+
+Let's modify the RFV metric by adding another dimension - response to "push" notifications. Such RFV-R metric should be validated against 3 segments defined above (super-commited, engaged, unengaged) by adjusting importance weights.
 
 ## Model (classifier)
 
