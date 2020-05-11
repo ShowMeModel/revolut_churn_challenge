@@ -1,6 +1,6 @@
 # Revolut churn challenge
 
-A sample churn prevention solution for an FinTech app
+A sample churn prevention solution for a FinTech app. Purpose of this project is to show how to segmentize users to 2 possible segments: of engaged users, and un-engaged users. This is useful for designing some A/B tests, to see if deliberative interacting (with inactive users) can engage some of them. 
 
 ## Challenge
 
